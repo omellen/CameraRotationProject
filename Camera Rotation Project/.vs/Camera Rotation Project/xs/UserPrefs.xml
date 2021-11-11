@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{8570004F-1289-516E-1BFA-A9B73F33B88F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ThirdPersonMovement.cs">
+    <Files>
+      <File FileName="Assets/ThirdPersonMovement.cs" Line="9" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2d13ec1c-319e-4a03-9de8-c7360796579c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
